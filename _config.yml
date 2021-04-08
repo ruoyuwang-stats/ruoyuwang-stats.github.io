@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal website"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Pedro Orozco del Pino, MS"
 description              : &description "Ph.D. Candidate in Biostatistics"
