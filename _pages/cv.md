@@ -100,12 +100,12 @@ Teaching
 Service and leadership
 ======
 * Biostatistics Department University of Michigan, Ann Arbor, MI
-  * Co-founder and member of the Diversity, Equity and Inclusion Student Committee, August 2020- present • Michigan Public Health Alumni Mentor, September 2019- present
+  * Co-founder and member of the Diversity, Equity and Inclusion Student Committee, August 2020- present 
+  * Michigan Public Health Alumni Mentor, September 2019- present
   * Departamental Diversity, Equity and Inclusion committee member, January 2019-present
-• Advised first year students during the “Incoming students retreat”, September 2019
-• Peer mentor for first year PhD students, Fall 2018, 2019, 2020
-• Co-founder Biostatistics Students Journal Club
-“Mexicanos en Estadística y Salud” (Mexicans in Statistics and Health), Michigan, Ann Arbor, MI
-* Founding member, May 2020- present
-• Group of Mexican graduate and postdoctoral scholars from different fields and universities committed to the dissemination
-of scientific information to the general population. https://mxciencia.github.io
+  * Advised first year students during the “Incoming students retreat”, September 2019
+  * Peer mentor for first year PhD students, Fall 2018, 2019, 2020
+  * Co-founder Biostatistics Students Journal Club
+* “Mexicanos en Estadística y Salud” (Mexicans in Statistics and Health), Michigan, Ann Arbor, MI
+  * Founding member, May 2020- present
+    * Group of Mexican graduate and postdoctoral scholars from different fields and universities committed to the dissemination of scientific information to the general population. https://mxciencia.github.io
