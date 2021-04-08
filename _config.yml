@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Pedro Orozco del Pino, MS / Personal website"
 title_separator          : "-"
 name                     : &name "Pedro Orozco del Pino"
-description              : &description "Ph.D. pre candidate in Biostatistics"
+description              : &description "Ph.D. Candidate in Biostatistics"
 url                      : https://orozcodelpinopedro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pedro-orozco/pedro.orozco.del.pino.github.io"
@@ -86,7 +86,7 @@ author:
   location         : "Ann Arbor, MI"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "Pedro Orozco del Pino"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
