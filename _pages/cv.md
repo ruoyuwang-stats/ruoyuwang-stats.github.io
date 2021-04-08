@@ -79,3 +79,12 @@ Service and leadership
 * “Mexicanos en Estadística y Salud” (Mexicans in Statistics and Health), Michigan, Ann Arbor, MI
   * Founding member, May 2020- present
     * Group of Mexican graduate and postdoctoral scholars from different fields and universities committed to the dissemination of scientific information to the general population. https://mxciencia.github.io
+
+Awards and Scholarships
+======
+* Fulbright-Garcia Robles Fellow. From August 2017 to August 2020
+* Rackham Conference Travel Grant. Awared on 2019.
+* Outstanding performance Graduate Student Instructor, Department of Biostatistics of University of Michigan. Awarded on
+December 2018
+* PepsiCo’s Global Functions Governance and Compliance Socrates Award for knowledge sharing. Awarded on May 2017
+* CONACYT Scholarship (No 401351 y register No 572797). From January 2015 to May 2016
