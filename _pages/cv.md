@@ -11,10 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in Applied Mathematics, Instituto Tecnológico Autónomo de México, 2012
-* M.S. in Statistics, Centro de Investigación en Matemáticas, 2016
-* M.S. in Biostatistics, University of Michigan, 2019 
 * Ph.D. in Biostatistics, University of Michigan, 2022 (Expected)
+* M.S. in Biostatistics, University of Michigan, 2019 
+* M.S. in Statistics, Centro de Investigación en Matemáticas, 2016
+* B.S. in Applied Mathematics, Instituto Tecnológico Autónomo de México, 2012
+
+
 
 Work experience
 ======
@@ -29,48 +31,41 @@ Work experience
   * Senior Scientist, September 2016-August 2017  
     * Designed experiments, and analyzed data for product development, product improvement, and nutritional improvement of products in the Latin America Region.
     * Gave training sessions in statistical skills improving the statistical abilities of Mexico City’s research and development facility resulted in recognition in a company award.
-Independent Statistical Consultant, Ann Arbor, MI
-February 2015-present
-• Consulting in statistical methodology, statistical analysis, design of experiments and science communication for industry,
-physicians and non-profit organizations. The deliverables include technical documents, statistical tools used by non-
-statistical staff, research papers, and seminars.
-• Co-wrote the sample size calculation section of the technical document used to measure TV ratings by the second largest TV
-network company of Mexico.
-• Designed, analyzed data, and wrote methods section of study to explore the relationship of diet and acne for a group of
-clinicians located in Latin America, Spain and Portugal. Published in February 2021.
-• Designed and programed sample size calculator that is used in a behavioral economics consulting firm.
-• Analyzed data to assess difference of two methods to prevent neurological damage from asphyxia in newborns.
-iLatina Grupo Salinas, Mexico City
-Data Science Manager, June 2012-July 2014 & Data Science Analyst, January-May 2012
-• Designed business intelligence dashboards to help upper management make data-driven decisions with real-time data. • Lead data analysis team of market research studies increasing the margin of profit for deliverables.
-180 Degrees Consulting, Mexico City
-Junior Consultant, September-December 2011
-• Designed and executed an index of performance of employees to increase productivity of a non-profit organization.
-Center for Economic Research at ITAM, Mexico City
-Social Service as Research Assistant, January-May 2011
-• Researched through paper archives to extract, and code that created a data base that was used to investigate the factors that
-impact the outcome of labor law suits against Mexico’s Federal Secretary of Education.
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Independent Statistical Consultant, Ann Arbor, MI
+  * February 2015-present
+    * Consulting in statistical methodology, statistical analysis, design of experiments and science communication for industry, physicians and non-profit organizations. The deliverables include technical documents, statistical tools used by non-statistical staff, research papers, and seminars.
+    * Co-wrote the sample size calculation section of the technical document used to measure TV ratings by the second largest TV network company of Mexico.
+    * Designed, analyzed data, and wrote methods section of study to explore the relationship of diet and acne for a group of clinicians located in Latin America, Spain and Portugal. Published in February 2021.
+    * Designed and programed sample size calculator that is used in a behavioral economics consulting firm.
+    * Analyzed data to assess difference of two methods to prevent neurological damage from asphyxia in newborns.
+* iLatina Grupo Salinas, Mexico City
+  * Data Science Manager, June 2012-July 2014 & Data Science Analyst, January-May 2012
+    * Designed business intelligence dashboards to help upper management make data-driven decisions with real-time data. • Lead data analysis team of market research studies increasing the margin of profit for deliverables.
+* 180 Degrees Consulting, Mexico City
+  * Junior Consultant, September-December 2011
+    * Designed and executed an index of performance of employees to increase productivity of a non-profit organization.
+* Center for Economic Research at ITAM, Mexico City
+  * Social Service as Research Assistant, January-May 2011
+    * Researched through paper archives to extract, and code that created a data base that was used to investigate the factors that impact the outcome of labor law suits against Mexico’s Federal Secretary of Education.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software: R, R studio, Linux, Plink, Python
+* Statistical methods: generalized linear models, mixed effects models, statistical inference, bayesian statistics, longitudinal data analysis, data integration.
+* Language: native Spanish, English.
 
 Publications
 ======
+1. Gasca N, Lozano-Esparza S, Arroyo J, Olivas A, Ulloa E, Orozco-del-Pino P, Pruebas para detectar covid-19, ¿qué son, cuándo hacerlas y cómo interpretarlas?, Taller de Datos de la Revista Nexos. 2020, https://datos.nexos.com.mx/?p=1771
+2. Ulloa E, Arroyo J, Gasca N, Lozano-Esparza S, Olivas A, Orozco-del-Pino P, Descifrar el Modelo Centinela, Taller de Datos de la Revista Nexos. 2020, https://datos.nexos.com.mx/?p=1520
+3. Salazar Herrera D, Ferreira Jaime T, Guzmán-Valdivia-Gómez G, Nuñez-del-Prado-Alcoreza J, Orozco-del-Pino P, Orozco-Gutiérrez, Contenido de sangre residual en el cordón umbilical post nacimiento en prematuros y niños de término, Acta Médica Grupo Ángeles. 2019, DOI:10.35366/95403 https://www.medigraphic.com/flipbook/actmed/am2020/num3/ mobile/index.html#p=265
+4. Orozco-Gutiérrez A, Sánchez-Gómez R, Orozco-del-Pino P, Nuñez-del-Prado-Alcoreza J. Respiratory Distress Management with Pulmonary Recruitment in Preterm Newborns, Preliminary Report. Acad J Ped Neonatol. 2018; 6(3): 555739. DOI: 10.19080/AJPN.2018.06.555739
+* Manuscripts in preparation
+1. Orozco-del-Pino P, Zöllner S, Impact of linkage disequilibrium in the transferability of European most significant variants, 2. Simonin I, Robles D, Orozco-del-Pino P, Data integration of European samples increases power in Mexican GWAS.
+3. Orozco-del-Pino P, Boonstra P, Comparative analysis of data integration methods.
+4. Orozco-del-Pino P, Gasca N, Lozano-Esparza S, Arroyo J, Olivas A, Ulloa E, ¿Lo que sabemos y lo que no sabemos de las
+vacunas de COVID-19?
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
