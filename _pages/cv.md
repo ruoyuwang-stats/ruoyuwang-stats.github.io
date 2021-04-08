@@ -20,16 +20,7 @@ Education
 
 Work experience
 ======
-* iLatina Grupo Salinas, Mexico City
-  * Data Science Manager, June 2012-July 2014 & Data Science Analyst, January-May 2012
-    * Designed business intelligence dashboards to help upper management make data-driven decisions with real-time data. • Lead data analysis team of market research studies increasing the margin of profit for deliverables.
-* 180 Degrees Consulting, Mexico City
-  * Junior Consultant, September-December 2011
-    * Designed and executed an index of performance of employees to increase productivity of a non-profit organization.
-* Center for Economic Research at ITAM, Mexico City
-  * Social Service as Research Assistant, January-May 2011
-    * Researched through paper archives to extract, and code that created a data base that was used to investigate the factors that impact the outcome of labor law suits against Mexico’s Federal Secretary of Education.
-   <ul>{% for post in site.portfolio %}
+<ul>{% for post in site.portfolio %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
  
