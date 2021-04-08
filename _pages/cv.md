@@ -40,7 +40,7 @@ Publications
 **Manuscripts in preparation****
 
 1. Orozco-del-Pino P, Zöllner S, Impact of linkage disequilibrium in the transferability of European most significant variants, 
-2. Simonin I, Robles D,Bishop T, Swingley M, Orozco-del-Pino P, Data integration of European samples increases power in Mexican GWAS.
+2. Simonin I, Robles D,Bishop T, Iles M, Orozco-del-Pino P, Data integration of European samples increases power in Mexican GWAS.
 3. Orozco-del-Pino P, Boonstra P, Comparative analysis of data integration methods.
 4. Orozco-del-Pino P, Gasca N, Lozano-Esparza S, Arroyo J, Olivas A, Ulloa E, ¿Lo que sabemos y lo que no sabemos de las
 vacunas de COVID-19?
