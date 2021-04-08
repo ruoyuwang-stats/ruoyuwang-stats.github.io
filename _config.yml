@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pedro Orozco del Pino, MS / Personal website"
+title                    : "Personal website"
 title_separator          : "-"
-name                     : &name "Pedro Orozco del Pino"
+name                     : &name "Pedro Orozco del Pino, MS"
 description              : &description "Ph.D. Candidate in Biostatistics"
 url                      : https://orozcodelpinopedro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
