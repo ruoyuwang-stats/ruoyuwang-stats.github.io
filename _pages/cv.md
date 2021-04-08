@@ -47,7 +47,10 @@ Work experience
 * Center for Economic Research at ITAM, Mexico City
   * Social Service as Research Assistant, January-May 2011
     * Researched through paper archives to extract, and code that created a data base that was used to investigate the factors that impact the outcome of labor law suits against Mexico’s Federal Secretary of Education.
-  
+   <ul>{% for post in site.portfolio %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+ 
 Skills
 ======
 * Software: R, R studio, Linux, Plink, Python
@@ -66,9 +69,6 @@ Publications
 4. Orozco-del-Pino P, Gasca N, Lozano-Esparza S, Arroyo J, Olivas A, Ulloa E, ¿Lo que sabemos y lo que no sabemos de las
 vacunas de COVID-19?
 
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
@@ -78,9 +78,6 @@ Talks
 4. Midwest Population Genetics meeting, University of Chicago, Chicago, Illinois, August 2019. “Impact of Linkage Disequilibrium on the Transferability of Polygenic Risk Scores” (Talk)
 5. Michigan Students Symposium on Interdisciplinary Statistical Sciences, Ann Arbor, March 2019. “Equitable Genomics: Transferring Genetic Risk Scores Across Populations” (Talk)
 6. First Workshop on Interdisciplinary Statistics University of Arizona and CIMAT, Guanajuato, México, August 2016. “Towards statistical analysis of extinction based on the fossil record” (Talk)
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
@@ -93,9 +90,6 @@ Teaching
 * Centro de Investigación en Matemáticas, A.C. (CIMAT), Mexico City
   * Teaching Assistant, August 2015-May 2016
     * Taught problem sets sessions for “Mathematical Statistics” and “Statistical Inference” for the Masters in Statistics
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
