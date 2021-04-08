@@ -1,6 +1,6 @@
 ---
 title: "Senior Scientist, September 2016-August 2017"
-excerpt: "Statistical consultan for Research and Development"
+excerpt: "Statistical consultant for Research and Development at PepsiCo Inc. , Mexico City"
 collection: portfolio
 ---
 * Designed experiments, and analyzed data for product development, product improvement, and nutritional improvement of products in the Latin America Region.
