@@ -1,6 +1,6 @@
 ---
 title: "Graduate Student Research Assistant, January 2018-present"
-excerpt: "Research assistant at Zöllber lab and Boonstra lab"
+excerpt: "Research assistant at Zöllber lab and Boonstra lab at University of Michigan, Department of Biostatistics, Ann Arbor, MI"
 permalink: /portfolio/GSRA
 collection: portfolio
 
