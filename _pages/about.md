@@ -12,6 +12,6 @@ I am Ph.D. candidate at the [Department of Biostatistics at the University of Mi
 
 I am also one of the co-founders of "[Mexicanos en Estadística y Salud](https://mxciencia.github.io)," a group of Mexican researchers who does science communication. 
 
-Before, I completed a MS in the Department of Statistics at the [Center for Research in Mathematics (CIMAT)](https://www.cimat.mx), advised by [Professor Miguel Nakamura](https://www.researchgate.net/profile/Miguel-Nakamura). I received a B.Sc. in Applied Mathematics from the [Mexico Autonomous Institute of Technology](http://departamentodematematicas.itam.mx/es)(ITAM), where I did my thesis with [Professor Luis Enrique Nieto Barajas](http://allman.rhon.itam.mx/%7Elnieto/index.html).
+Before, I completed a MS in the Department of Statistics at the [Center for Research in Mathematics (CIMAT)](https://www.cimat.mx), advised by [Professor Miguel Nakamura](https://www.researchgate.net/profile/Miguel-Nakamura). I received a B.Sc. in Applied Mathematics from the [Mexico Autonomous Institute of Technology (ITAM)](http://departamentodematematicas.itam.mx/es), where I did my thesis with [Professor Luis Enrique Nieto Barajas](http://allman.rhon.itam.mx/%7Elnieto/index.html).
 
 I live in Ann Arbor with my wife and two kids (soon to be three). I am always happy to connect with people from all stages of their careers about collaborations, networking, or mentoring. Please shoot me an [email](mailto:porozco@umich.edu) anytime! 
