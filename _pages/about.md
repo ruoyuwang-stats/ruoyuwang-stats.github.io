@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Ph.D. candidate at the [Department of Biostatistics at the University of Michigan](https://sph.umich.edu/biostat/). I work with [Dr Zöllner](https://sph.umich.edu/faculty-profiles/zollner-sebastian.html) in statistical genetics, and with [Dr Boonstra](https://sph.umich.edu/faculty-profiles/boonstra-philip.html) in data integration methods. I am a [Fulbright-García Robles](https://www.comexus.org.mx) ex-fellow (2017-2020 cohort). 
+I am Ph.D. candidate at the [Department of Biostatistics at the University of Michigan](https://sph.umich.edu/biostat/). I work with [Dr Zöllner](https://sph.umich.edu/faculty-profiles/zollner-sebastian.html) in statistical genetics, and with [Dr Boonstra](https://sph.umich.edu/faculty-profiles/boonstra-philip.html) in data integration methods. I am a [Fulbright-García Robles](https://www.comexus.org.mx) ex-grantee (2017-2020 cohort). 
 
 I am also one of the co-founders of "[Mexicanos en Estadística y Salud](https://mxciencia.github.io)," a group of Mexican researchers who does science communication. 
 
