@@ -8,4 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am currently writing my Ph.D. dissertation under Dr Sebastian Zöllner in the transferability of polygenic risk scores. I expect to graduate from mid to end of 2022. I am also involved in research about data integration methods with Dr Phillip Boonstra. I am also one of the co-founders of "Mexicanos en Estadística y Salud," a research group of young Mexican researchers who writes about science communication (check out more here https://mxciencia.github.io). I live in Ann Arbor with my wife and two kids (soon to be three). I am always happy to connect with people from all stages of their careers about collaborations, networking, or mentoring. Please shoot me an email anytime! 
+I am Ph.D. candidate at the Department of Biostatistics at the University of Michigan. I work with Dr Zöllner in statistical genetics, and with Dr Boonstra in data integration methods. 
+
+I am also one of the co-founders of "Mexicanos en Estadística y Salud," a group of Mexican researchers who does science communication (check out more here https://mxciencia.github.io). 
+
+Before, I completed a MS in the Department of Statistics at The Center for Research in Mathematics (CIMAT), advised by Professor Miguel Nakamura. I received a B.Sc. in Applied Mathematics from the Mexico Autonomous Institute of Technology (ITAM).
+
+I live in Ann Arbor with my wife and two kids (soon to be three). I am always happy to connect with people from all stages of their careers about collaborations, networking, or mentoring. Please shoot me an email anytime! 
