@@ -72,16 +72,40 @@ vacunas de COVID-19?
   
 Talks
 ======
+1. American Society of Human Genetics Meeting, Houston, Texas, October 2020. “Applying European polygenic risk scores to non-European populations: What is the role of Linkage Disequilibrium?” (Poster)
+2. International Laboratory for Human Genome Research, Querétaro, México, February 2020. “Role of Linkage Disequilibrium in the Transferability of European Polygenic Risk Scores into Other Populations” (Seminar)
+3. American Society of Human Genetics Meeting, Houston, Texas, October 2019. “Quantifying the Impact of Linkage Disequilibrium on Transferability of European GWAS to non-European populations” (Platform Talk)
+4. Midwest Population Genetics meeting, University of Chicago, Chicago, Illinois, August 2019. “Impact of Linkage Disequilibrium on the Transferability of Polygenic Risk Scores” (Talk)
+5. Michigan Students Symposium on Interdisciplinary Statistical Sciences, Ann Arbor, March 2019. “Equitable Genomics: Transferring Genetic Risk Scores Across Populations” (Talk)
+6. First Workshop on Interdisciplinary Statistics University of Arizona and CIMAT, Guanajuato, México, August 2016. “Towards statistical analysis of extinction based on the fossil record” (Talk)
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
 ======
+* University of Michigan, Ann Arbor, MI
+  * Graduate Student Instructor, September 2017-December 2017
+    * Taught coding labs for the course “Biostatistics Methods in Epidemiology” for the Masters in Epidemiology 
+* Instituto Tecnológico Autónomo de México (ITAM), Mexico City
+  * Lecturer, January 2017-May 2017
+    * Taught the course “Simple and Multiple Linear Regression” course for undergraduates
+* Centro de Investigación en Matemáticas, A.C. (CIMAT), Mexico City
+  * Teaching Assistant, August 2015-May 2016
+    * Taught problem sets sessions for “Mathematical Statistics” and “Statistical Inference” for the Masters in Statistics
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Biostatistics Department University of Michigan, Ann Arbor, MI
+  * Co-founder and member of the Diversity, Equity and Inclusion Student Committee, August 2020- present • Michigan Public Health Alumni Mentor, September 2019- present
+  * Departamental Diversity, Equity and Inclusion committee member, January 2019-present
+• Advised first year students during the “Incoming students retreat”, September 2019
+• Peer mentor for first year PhD students, Fall 2018, 2019, 2020
+• Co-founder Biostatistics Students Journal Club
+“Mexicanos en Estadística y Salud” (Mexicans in Statistics and Health), Michigan, Ann Arbor, MI
+* Founding member, May 2020- present
+• Group of Mexican graduate and postdoctoral scholars from different fields and universities committed to the dissemination
+of scientific information to the general population. https://mxciencia.github.io
