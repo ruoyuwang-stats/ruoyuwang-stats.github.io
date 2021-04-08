@@ -86,7 +86,7 @@ author:
   location         : "Ann Arbor, MI"
   employer         :
   pubmed           : 
-  googlescholar    : "Pedro Orozco del Pino"
+  googlescholar    : "https://scholar.google.com/citations?user=Feg-7a0AAAAJ&hl=en&authuser=1"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/orozcodelpinopedro/"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -182,7 +182,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
