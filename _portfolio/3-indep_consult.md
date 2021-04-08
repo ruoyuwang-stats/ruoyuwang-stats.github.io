@@ -9,3 +9,4 @@ collection: portfolio
 * Co-wrote the sample size calculation section of the technical document used to measure TV ratings by the second largest TV network company of Mexico.
 * Designed, analyzed data, and wrote methods section of study to explore the relationship of diet and acne for a group of clinicians located in Latin America, Spain and Portugal. Published in February 2021.
 * Designed and programed sample size calculator that is used in a behavioral economics consulting firm.
+* Analyzed data to assess difference of two methods to prevent neurological damage from asphyxia in newborns.
