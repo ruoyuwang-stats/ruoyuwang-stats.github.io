@@ -4,6 +4,7 @@ collection: talks
 type: "Thesis"
 permalink: /talks/2016-05-01-fossil-record
 venue: "To receive the Master in Science in Statistics degree"
+excerpt: "<br/><img src='/images/Fossil.jpeg'>"
 date: 2016-05-01
 location: "Research in Mathematics Center (CIMAT)"
 ---
