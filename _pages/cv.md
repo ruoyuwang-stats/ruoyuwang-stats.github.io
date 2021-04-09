@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download Resume](https://umich.box.com/s/qaa2h6vub3ibhipkl6k9w2ludqt8jeju)
+
 Education
 ======
 * Ph.D. in Biostatistics, University of Michigan, 2022 (Expected)
