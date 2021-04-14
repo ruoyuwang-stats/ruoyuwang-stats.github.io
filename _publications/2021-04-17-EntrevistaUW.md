@@ -1,5 +1,5 @@
 ---
-title: "University of Washington interview with MES"
+title: "MES' interview with University of Washington"
 collection: publications
 permalink: /publication/2021-04-17-interview
 excerpt: 'The Biostatistics Department of the Univeristy of Washington wants to interview MES members about their work on SciCom'
