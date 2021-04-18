@@ -9,6 +9,7 @@ venue: 'April'
 #citation: ''
 ---
 All members of "Mexicanos en Estadística y Salud" are going to be interviewed by the Biostatistics Department of the University of Washington.
-I'm looking forward to it and I still don't know what is the interview exactly about. 
-But I think is to tell a little bit about our journey as a SciCom group. 
-I'm really proud of being a member of this extraordinary group of young researchers and I have a lot of faith in the things we will accomplish. 
+We'll talk about our journey as a SciCom group, our motivations, and where do we think MES is going next. 
+The interview is schedule for Thursday 22nd April, we'll see what happens. 
+I'm really proud of being a member of this extraordinary group of young researchers and I have a lot of faith in the things we will accomplish.
+I'm looking forward to this a lot. 
