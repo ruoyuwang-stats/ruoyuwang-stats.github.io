@@ -34,18 +34,17 @@ Skills
 
 Publications
 ======
-1. Gasca N, Lozano-Esparza S, Arroyo J, Olivas A, Ulloa E, Orozco-del-Pino P, Pruebas para detectar covid-19, ¿qué son, cuándo hacerlas y cómo interpretarlas?, Taller de Datos de la Revista Nexos. 2020, https://datos.nexos.com.mx/?p=1771
-2. Ulloa E, Arroyo J, Gasca N, Lozano-Esparza S, Olivas A, Orozco-del-Pino P, Descifrar el Modelo Centinela, Taller de Datos de la Revista Nexos. 2020, https://datos.nexos.com.mx/?p=1520
-3. Salazar Herrera D, Ferreira Jaime T, Guzmán-Valdivia-Gómez G, Nuñez-del-Prado-Alcoreza J, Orozco-del-Pino P, Orozco-Gutiérrez, Contenido de sangre residual en el cordón umbilical post nacimiento en prematuros y niños de término, Acta Médica Grupo Ángeles. 2019, DOI:10.35366/95403 https://www.medigraphic.com/flipbook/actmed/am2020/num3/ mobile/index.html#p=265
-4. Orozco-Gutiérrez A, Sánchez-Gómez R, Orozco-del-Pino P, Nuñez-del-Prado-Alcoreza J. Respiratory Distress Management with Pulmonary Recruitment in Preterm Newborns, Preliminary Report. Acad J Ped Neonatol. 2018; 6(3): 555739. DOI: 10.19080/AJPN.2018.06.555739
+1. Lozano-Esparza S, Orozco-del-Pino P, Gasca N, Olivas A, Arroyo J, Ulloa E, Garbuno A, Las vacunas: ¿qué son? ¿podemos confiar en ellas?, Punto Decimal, https://puntodecimal.mx/ciencia/las-vacunas-que-son-y-podemos-confiar-en-ellas
+2. Gasca N, Lozano-Esparza S, Arroyo J, Olivas A, Ulloa E, Orozco-del-Pino P, Pruebas para detectar covid-19, ¿qué son, cuándo hacerlas y cómo interpretarlas?, Taller de Datos de la Revista Nexos. 2020, https://datos.nexos.com.mx/?p=1771
+3. Ulloa E, Arroyo J, Gasca N, Lozano-Esparza S, Olivas A, Orozco-del-Pino P, Descifrar el Modelo Centinela, Taller de Datos de la Revista Nexos. 2020, https://datos.nexos.com.mx/?p=1520
+4. Salazar Herrera D, Ferreira Jaime T, Guzmán-Valdivia-Gómez G, Nuñez-del-Prado-Alcoreza J, Orozco-del-Pino P, Orozco-Gutiérrez, Contenido de sangre residual en el cordón umbilical post nacimiento en prematuros y niños de término, Acta Médica Grupo Ángeles. 2019, DOI:10.35366/95403 https://www.medigraphic.com/flipbook/actmed/am2020/num3/ mobile/index.html#p=265
+5. Orozco-Gutiérrez A, Sánchez-Gómez R, Orozco-del-Pino P, Nuñez-del-Prado-Alcoreza J. Respiratory Distress Management with Pulmonary Recruitment in Preterm Newborns, Preliminary Report. Acad J Ped Neonatol. 2018; 6(3): 555739. DOI: 10.19080/AJPN.2018.06.555739
 
 **Manuscripts in preparation****
 
 1. Orozco-del-Pino P, Zöllner S, Impact of linkage disequilibrium in the transferability of European most significant variants, 
 2. Simonin I, Robles D,Bishop T, Iles M, Orozco-del-Pino P, Data integration of European samples increases power in Mexican GWAS.
 3. Orozco-del-Pino P, Boonstra P, Comparative analysis of data integration methods.
-4. Orozco-del-Pino P, Gasca N, Lozano-Esparza S, Arroyo J, Olivas A, Ulloa E, ¿Lo que sabemos y lo que no sabemos de las
-vacunas de COVID-19?
 
   
 Talks
