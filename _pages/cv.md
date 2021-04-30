@@ -43,9 +43,9 @@ Publications
 **Manuscripts in preparation****
 
 1. Orozco-del-Pino P, Zöllner S, Impact of linkage disequilibrium in the transferability of European most significant variants, 
-2. Simonin I, Robles D,Bishop T, Iles M, Orozco-del-Pino P, Data integration of European samples increases power in Mexican GWAS.
+2. Simonin-Wilmner I, *Orozco-del-Pino* *P*, Bishop T, Iles M, Robles-Espinosa D, An overview of strategies for detecting genotype-phenotype association across ancestrally diverse populations.
 3. Orozco-del-Pino P, Boonstra P, Comparative analysis of data integration methods.
-
+4. Orozco-del-Pino P, Zöllner S, Leveraging fine mapping and linkage disequilibrium to increase transferability of polygenic risk scores.
   
 Talks
 ======
