@@ -41,13 +41,12 @@ Publications
 5. [Orozco-Gutiérrez A, Sánchez-Gómez R, **Orozco-del-Pino P**, Nuñez-del-Prado-Alcoreza J. Respiratory Distress Management with Pulmonary Recruitment in Preterm Newborns, Preliminary Report. Acad J Ped Neonatol. 2018; 6(3): 555739. DOI: 10.19080/AJPN.2018.06.555739](https://juniperpublishers.com/ajpn/AJPN.MS.ID.555739.php)
 
 **Manuscripts submitted****
+1. Simonin-Wilmner I, **Orozco-del-Pino P**, Bishop T, Iles M, Robles-Espinosa D, An overview of strategies for detecting genotype-phenotype association across ancestrally diverse populations.
 
 **Manuscripts in preparation****
-
 1. **Orozco-del-Pino P**, Zöllner S, Impact of linkage disequilibrium in the transferability of European most significant variants, 
-2. Simonin-Wilmner I, **Orozco-del-Pino P**, Bishop T, Iles M, Robles-Espinosa D, An overview of strategies for detecting genotype-phenotype association across ancestrally diverse populations.
-3. **Orozco-del-Pino P**, Boonstra P, Comparative analysis of data integration methods.
-4. **Orozco-del-Pino P**, Zöllner S, Leveraging fine mapping and linkage disequilibrium to increase transferability of polygenic risk scores.
+2. **Orozco-del-Pino P**, Boonstra P, Comparative analysis of data integration methods.
+3. **Orozco-del-Pino P**, Zöllner S, Leveraging fine mapping and linkage disequilibrium to increase transferability of polygenic risk scores.
   
 Talks
 ======
