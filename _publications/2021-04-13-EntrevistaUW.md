@@ -3,7 +3,7 @@ title: "MES' interview with University of Washington"
 collection: publications
 permalink: /publication/2021-04-17-interview
 excerpt: 'The Biostatistics Department of the Univeristy of Washington interviewed MES members about their work on SciCom'
-date: 2021-4-14
+date: 2021-5-25
 venue: 'April'
 #paperurl: ''
 #citation: ''
