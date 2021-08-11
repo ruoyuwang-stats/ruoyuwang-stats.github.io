@@ -18,14 +18,14 @@ Education
 * M.S. in Statistics, Centro de Investigación en Matemáticas, 2016
 * B.S. in Applied Mathematics, Instituto Tecnológico Autónomo de México, 2012
 
-
-
 Work experience
 ======
 <ul>{% for post in site.portfolio %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
- 
+Research Interests
+======
+Statistical Genetics, transferability of polygenic risk scores, equitable genetic research, multi-ethnic genetic research and health disparities, high dimensional data analysis, statistical modeling for biomedical data, and data integration. 
 Skills
 ======
 * Software: R, R studio, Linux, Plink, Python
