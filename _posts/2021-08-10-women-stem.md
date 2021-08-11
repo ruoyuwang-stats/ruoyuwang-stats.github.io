@@ -1,7 +1,7 @@
 ---
 title: 'Picture a scientist documentary'
 date: 2021-01-7
-permalink: /posts/2021/01/blog-post-1/
+permalink: /posts/2021/01/blog-post-3/
 tags:
   - women in STEM
   - DEIJ
