@@ -1,6 +1,6 @@
 ---
 title: 'Picture a scientist documentary'
-date: 2021-01-7
+date: 2021-08-10
 permalink: /posts/2021/01/blog-post-3/
 tags:
   - women in STEM
