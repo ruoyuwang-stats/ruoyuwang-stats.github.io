@@ -23,9 +23,11 @@ Work experience
 <ul>{% for post in site.portfolio %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
 Research Interests
 ======
 Statistical Genetics, transferability of polygenic risk scores, equitable genetic research, multi-ethnic genetic research and health disparities, high dimensional data analysis, statistical modeling for biomedical data, and data integration. 
+
 Skills
 ======
 * Software: R, R studio, Linux, Plink, Python
