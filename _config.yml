@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "About me"
 title_separator          : "-"
-name                     : &name "Pedro Orozco del Pino, MS"
+name                     : &name "Yuhua Zhang, MS"
 description              : &description "Ph.D. Candidate in Biostatistics, University of Michigan"
-url                      : https://yuhuazhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yuhuazhang1995.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "YuhuaZhang1995/YuhuaZhang.github.io"
+repository               : "YuhuaZhang1995/YuhuaZhang1995.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Pedro Orozco del Pino"
+  name             : "Yuhua Zhang"
   avatar           : "HeadShot2021_2.JPG"
   bio              : "PhD Candidate in Biostatistics"
   location         : "Ann Arbor, MI"
   employer         : #"University of Michigan"
   pubmed           : 
-  googlescholar    : #"https://scholar.google.com/citations?user=Feg-7a0AAAAJ&hl=en&authuser=1"
+  googlescholar    : #"https://scholar.google.com/citations?user=prsuc50AAAAJ&hl=en"
   email            : "zyuhua@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "orozcodelpinopedro"
+  linkedin         : #"orozcodelpinopedro"
   orcid            : 
   pinterest        :
   soundcloud       :
