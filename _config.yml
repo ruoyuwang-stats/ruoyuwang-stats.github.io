@@ -86,7 +86,7 @@ author:
   location         : "Ann Arbor, MI"
   employer         : #"University of Michigan"
   pubmed           : 
-  googlescholar    : #"https://scholar.google.com/citations?user=prsuc50AAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=prsuc50AAAAJ&hl=en"
   email            : "zyuhua@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
