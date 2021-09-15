@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Last update: August, 10th, 2021"
+title: "Last update: September, 15th, 2021"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -17,8 +17,8 @@ Education
 * M.S. in Biostatistics, University of Michigan, 2019 
 * B.S. in General Biology, Shanghai Jiaotong University, 2017
 
-#Work experience
-#======
+Research experience
+======
 #<ul>{% for post in site.portfolio %}
 #    {% include archive-single-cv.html %}
 #  {% endfor %}</ul>
@@ -41,16 +41,14 @@ Publications
 
 **Manuscripts in preparation****
 1. **Zhang, Y.**, Zöllner, S., Intergrating gene co-expression network into the estimation of the effect sizes,  
-2. **Zhang, Y.**, Dempsey, W., An edge exchangeable model based community detection method
+2. **Zhang, Y.**, Dempsey, W., An edge exchangeable model based community detection method in network data
   
 Talks and Posters
 ======
-#1. American Society of Human Genetics Meeting, Houston, Texas, October 2020. “Applying European polygenic risk scores to non-European populations: What is the role of Linkage #Disequilibrium?” (Poster)
-#2. International Laboratory for Human Genome Research, Querétaro, México, February 2020. “Role of Linkage Disequilibrium in the Transferability of European Polygenic Risk #Scores into Other Populations” (Seminar)
-#3. American Society of Human Genetics Meeting, Houston, Texas, October 2019. “Quantifying the Impact of Linkage Disequilibrium on Transferability of European GWAS to non-#European populations” (Platform Talk)
-#4. Midwest Population Genetics meeting, University of Chicago, Chicago, Illinois, August 2019. “Impact of Linkage Disequilibrium on the Transferability of Polygenic Risk #Scores” (Talk)
-#5. Michigan Students Symposium on Interdisciplinary Statistical Sciences, Ann Arbor, March 2019. “Equitable Genomics: Transferring Genetic Risk Scores Across Populations”(Talk)
-#6. First Workshop on Interdisciplinary Statistics University of Arizona and CIMAT, Guanajuato, México, August 2016. “Towards statistical analysis of extinction based on the #fossil record” (Talk)
+1. American Society of Human Genetics Meeting, virtual, October 2021. “Intergrating gene co-expression network into the estimation of the effect sizes” (Poster)
+2. Michigan Students Symposium on Interdisciplinary Statistical Sciences, Ann Arbor, March 2020. “A noval clustering method of interaction data” (Talk)
+3. Midwest Population Genetics meeting, University of Chicago, Chicago, Illinois, August 2019. “The application of Polygenic Risk Score (PRS) in the clinical diagnosis of bipolar disorder” (Poster)
+
   
 Service and leadership
 ======
@@ -61,11 +59,4 @@ Service and leadership
   * Peer mentor for first year graduate students, Fall 2018, 2019, 2020
 
 
-#Awards and Scholarships
-#======
-#* Fulbright-Garcia Robles Fellow. From August 2017 to August 2020
-#* Rackham Conference Travel Grant. Awared on 2019.
-#* Outstanding performance Graduate Student Instructor, Department of Biostatistics of University of Michigan. Awarded on
-#December 2018
-#* PepsiCo’s Global Functions Governance and Compliance Socrates Award for knowledge sharing. Awarded on May 2017
-#* CONACYT Scholarship (No 401351 y register No 572797). From January 2015 to May 2016
+
