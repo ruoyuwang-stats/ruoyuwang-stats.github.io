@@ -1,12 +1,12 @@
 ---
-title: "Graduate Student Research Assistant, January 2018-present"
-excerpt: "Research assistant at Zöllber lab and Boonstra lab at University of Michigan, Department of Biostatistics, Ann Arbor, MI"
+title: "Graduate Student Research Assistant, May 2018-present"
+excerpt: "Research assistant at Zöllber group and Dempsey group at University of Michigan, Department of Biostatistics, Ann Arbor, MI"
 permalink: /portfolio/GSRA
 collection: portfolio
 
 ---
-Research assistant at Zöllber lab and Boonstra lab at University of Michigan, Department of Biostatistics, Ann Arbor, MI
+Research assistant at Zöllber group and Dempsey lab at University of Michigan, Department of Biostatistics, Ann Arbor, MI
 
-* Measure the impact of genetic correlation structure for an NIH funded study about the portability of Genome-Wide Association Studies across populations of different ancestry. This research was presented at five conferences, and a paper will be sent for publication in the next couple of months.
-* Conduct statistical association analysis to identify genetic determinants of COVID-19 susceptibility and severity as part of the Michigan Genomics Initiative effort to contribute to the COVID-19 Host Genetics Initiative. More about the initiative here https://www.covid19hg.org .
-* Conduct literature review for data integration methods and run simulations for a comparative performance analysis of the methods.
+* Identified the underlying community structures of the network data from TalkLife to help the platform provide proper supports to certain users.
+* Pre-processed and analyzed the exome sequence data in Prechter Project for Bipolar Disorder.
+* Analyzed the 15-yr longitudinal data collected from 1,159 bipolar patients to improve clinical diagnosis. 
