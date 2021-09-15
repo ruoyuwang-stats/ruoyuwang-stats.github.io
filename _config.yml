@@ -11,9 +11,9 @@ title                    : "About me"
 title_separator          : "-"
 name                     : &name "Pedro Orozco del Pino, MS"
 description              : &description "Ph.D. Candidate in Biostatistics, University of Michigan"
-url                      : https://orozcodelpinopedro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yuhuazhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "pedro-orozco/pedro.orozco.del.pino.github.io"
+repository               : "YuhuaZhang1995/YuhuaZhang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -87,7 +87,7 @@ author:
   employer         : #"University of Michigan"
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=Feg-7a0AAAAJ&hl=en&authuser=1"
-  email            : "porozco@umich.edu"
+  email            : "zyuhua@umich.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
