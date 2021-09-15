@@ -13,10 +13,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Biostatistics, University of Michigan, 2022 (Expected)
+* Ph.D. in Biostatistics, University of Michigan, 2023 (Expected)
 * M.S. in Biostatistics, University of Michigan, 2019 
-* M.S. in Statistics, Centro de Investigación en Matemáticas, 2016
-* B.S. in Applied Mathematics, Instituto Tecnológico Autónomo de México, 2012
+* B.S. in General Biology, Shanghai Jiaotong University, 2017
 
 Work experience
 ======
@@ -26,13 +25,13 @@ Work experience
   
 Research Interests
 ======
-Statistical Genetics, transferability of polygenic risk scores, equitable genetic research, multi-ethnic genetic research and health disparities, high dimensional data analysis, statistical modeling for biomedical data, and data integration. 
+Social Network Modeling, Large-scale Network Data Analysis, Bayesian Nonparametric Method, Statistical Inference for High Dimensional Data, Statistical Genetics 
 
-Skills
+Skills Summary
 ======
-* Software: R, R studio, Linux, Plink, Python
-* Statistical methods: generalized linear models, mixed effects models, statistical inference, bayesian statistics, longitudinal data analysis, data integration.
-* Language: native Spanish, English.
+* Software: R, Linux, Python, SQL
+* Statistical methods: Bayesian statistics, Nonparametric Modeling, generalized linear models, mixed effects models, statistical inference, longitudinal data analysis, causal inference.
+* Language: native Chinese, English.
 
 Publications
 ======
@@ -42,9 +41,6 @@ Publications
 4. [Salazar Herrera D, Ferreira Jaime T, Guzmán-Valdivia-Gómez G, Nuñez-del-Prado-Alcoreza J, **Orozco-del-Pino P**, Orozco-Gutiérrez, Post-Birth umbilical cord blood content in premature and term infants, Acta Médica Grupo Ángeles. 2019, DOI:10.35366/95403](https://www.medigraphic.com/cgi-bin/new/resumenI.cgi?IDARTICULO=95403)
 5. [Orozco-Gutiérrez A, Sánchez-Gómez R, **Orozco-del-Pino P**, Nuñez-del-Prado-Alcoreza J. Respiratory Distress Management with Pulmonary Recruitment in Preterm Newborns, Preliminary Report. Acad J Ped Neonatol. 2018; 6(3): 555739. DOI: 10.19080/AJPN.2018.06.555739](https://juniperpublishers.com/ajpn/AJPN.MS.ID.555739.php)
 
-**Manuscripts submitted****
-1. Simonin-Wilmner I, **Orozco-del-Pino P**, Bishop T, Iles M, Robles-Espinosa D, An overview of strategies for detecting genotype-phenotype association across ancestrally diverse populations.
-
 **Manuscripts in preparation****
 1. **Orozco-del-Pino P**, Zöllner S, Impact of linkage disequilibrium in the transferability of European most significant variants, 
 2. **Orozco-del-Pino P**, Boonstra P, Comparative analysis of data integration methods.
@@ -52,24 +48,12 @@ Publications
   
 Talks
 ======
-1. American Society of Human Genetics Meeting, Houston, Texas, October 2020. “Applying European polygenic risk scores to non-European populations: What is the role of Linkage Disequilibrium?” (Poster)
-2. International Laboratory for Human Genome Research, Querétaro, México, February 2020. “Role of Linkage Disequilibrium in the Transferability of European Polygenic Risk Scores into Other Populations” (Seminar)
-3. American Society of Human Genetics Meeting, Houston, Texas, October 2019. “Quantifying the Impact of Linkage Disequilibrium on Transferability of European GWAS to non-European populations” (Platform Talk)
-4. Midwest Population Genetics meeting, University of Chicago, Chicago, Illinois, August 2019. “Impact of Linkage Disequilibrium on the Transferability of Polygenic Risk Scores” (Talk)
-5. Michigan Students Symposium on Interdisciplinary Statistical Sciences, Ann Arbor, March 2019. “Equitable Genomics: Transferring Genetic Risk Scores Across Populations” (Talk)
-6. First Workshop on Interdisciplinary Statistics University of Arizona and CIMAT, Guanajuato, México, August 2016. “Towards statistical analysis of extinction based on the fossil record” (Talk)
-  
-Teaching
-======
-* University of Michigan, Ann Arbor, MI
-  * Graduate Student Instructor, September 2017-December 2017
-    * Taught coding labs for the course “Biostatistics Methods in Epidemiology” for the Masters in Epidemiology 
-* Instituto Tecnológico Autónomo de México (ITAM), Mexico City
-  * Lecturer, January 2017-May 2017
-    * Taught the course “Simple and Multiple Linear Regression” course for undergraduates
-* Centro de Investigación en Matemáticas, A.C. (CIMAT), Mexico City
-  * Teaching Assistant, August 2015-May 2016
-    * Taught problem sets sessions for “Mathematical Statistics” and “Statistical Inference” for the Masters in Statistics
+#1. American Society of Human Genetics Meeting, Houston, Texas, October 2020. “Applying European polygenic risk scores to non-European populations: What is the role of Linkage #Disequilibrium?” (Poster)
+#2. International Laboratory for Human Genome Research, Querétaro, México, February 2020. “Role of Linkage Disequilibrium in the Transferability of European Polygenic Risk #Scores into Other Populations” (Seminar)
+#3. American Society of Human Genetics Meeting, Houston, Texas, October 2019. “Quantifying the Impact of Linkage Disequilibrium on Transferability of European GWAS to non-#European populations” (Platform Talk)
+#4. Midwest Population Genetics meeting, University of Chicago, Chicago, Illinois, August 2019. “Impact of Linkage Disequilibrium on the Transferability of Polygenic Risk #Scores” (Talk)
+#5. Michigan Students Symposium on Interdisciplinary Statistical Sciences, Ann Arbor, March 2019. “Equitable Genomics: Transferring Genetic Risk Scores Across Populations”(Talk)
+#6. First Workshop on Interdisciplinary Statistics University of Arizona and CIMAT, Guanajuato, México, August 2016. “Towards statistical analysis of extinction based on the #fossil record” (Talk)
   
 Service and leadership
 ======
