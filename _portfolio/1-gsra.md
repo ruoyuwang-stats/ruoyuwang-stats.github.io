@@ -5,8 +5,8 @@ permalink: /portfolio/GSRA
 collection: portfolio
 
 ---
-Research assistant at Zöllber group and Dempsey lab at University of Michigan, Department of Biostatistics, Ann Arbor, MI
+Research assistant at Zöllber group and Dempsey group at the University of Michigan, Department of Biostatistics, Ann Arbor, MI
 
 * Identified the underlying community structures of the network data from TalkLife to help the platform provide proper supports to certain users.
-* Pre-processed and analyzed the exome sequence data in Prechter Project for Bipolar Disorder.
+* Pre-processed and analyzed the exome sequence data collected from 967 participants in Prechter Project for Bipolar Disorder.
 * Analyzed the 15-yr longitudinal data collected from 1,159 bipolar patients to improve clinical diagnosis. 
