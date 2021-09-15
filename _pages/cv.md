@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download Resume](https://umich.box.com/s/qaa2h6vub3ibhipkl6k9w2ludqt8jeju)
+[Download Resume](https://umich.box.com/s/aya2xf778k8539a9l5dymwj8wstqot5o)
 
 Education
 ======
@@ -17,11 +17,11 @@ Education
 * M.S. in Biostatistics, University of Michigan, 2019 
 * B.S. in General Biology, Shanghai Jiaotong University, 2017
 
-Work experience
-======
-<ul>{% for post in site.portfolio %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#Work experience
+#======
+#<ul>{% for post in site.portfolio %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
 Research Interests
 ======
@@ -30,23 +30,20 @@ Social Network Modeling, Large-scale Network Data Analysis, Bayesian Nonparametr
 Skills Summary
 ======
 * Software: R, Linux, Python, SQL
-* Statistical methods: Bayesian statistics, Nonparametric Modeling, generalized linear models, mixed effects models, statistical inference, longitudinal data analysis, causal inference.
+* Statistical methods: Bayesian Statistics, Nonparametric Modeling, Generalized Linear Models, Mixed Effects Models, Statistical Inference, Longitudinal Data Analysis, Causal Inference.
 * Language: native Chinese, English.
 
 Publications
 ======
-1. [Lozano-Esparza S, **Orozco-del-Pino P**, Gasca N, Olivas A, Arroyo J, Ulloa E, Garbuno A, Las vacunas: ¿qué son? ¿podemos confiar en ellas?, Punto Decimal](https://puntodecimal.mx/ciencia/las-vacunas-que-son-y-podemos-confiar-en-ellas)
-2. [Gasca N, Lozano-Esparza S, Arroyo J, Olivas A, Ulloa E, **Orozco-del-Pino P**, Pruebas para detectar covid-19, ¿qué son, cuándo hacerlas y cómo interpretarlas?, Taller de Datos de la Revista Nexos. 2020](https://datos.nexos.com.mx/?p=1771)
-3. [Ulloa E, Arroyo J, Gasca N, Lozano-Esparza S, Olivas A, **Orozco-del-Pino P**, Descifrar el Modelo Centinela, Taller de Datos de la Revista Nexos. 2020.](https://datos.nexos.com.mx/?p=1520)
-4. [Salazar Herrera D, Ferreira Jaime T, Guzmán-Valdivia-Gómez G, Nuñez-del-Prado-Alcoreza J, **Orozco-del-Pino P**, Orozco-Gutiérrez, Post-Birth umbilical cord blood content in premature and term infants, Acta Médica Grupo Ángeles. 2019, DOI:10.35366/95403](https://www.medigraphic.com/cgi-bin/new/resumenI.cgi?IDARTICULO=95403)
-5. [Orozco-Gutiérrez A, Sánchez-Gómez R, **Orozco-del-Pino P**, Nuñez-del-Prado-Alcoreza J. Respiratory Distress Management with Pulmonary Recruitment in Preterm Newborns, Preliminary Report. Acad J Ped Neonatol. 2018; 6(3): 555739. DOI: 10.19080/AJPN.2018.06.555739](https://juniperpublishers.com/ajpn/AJPN.MS.ID.555739.php)
+1. [Hu, Y., Lu, Q., Liu, W., **Zhang, Y.**, Li, M., & Zhao, H. (2017). *Joint modeling of genetically correlated diseases and functional annotations increases accuracy of polygenic risk prediction*. PLoS genetics, 13(6), e1006836.](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006836)
+2. [**Zhang, Y.**, Quick, C., Yu, K., Barbeira, A., Luca, F., Pique-Regi, R., ... & Wen, X. (2020). *PTWAS: investigating tissue-relevant causal molecular mechanisms of complex traits using probabilistic TWAS analysis*. Genome biology, 21(1), 1-26.](https://link.springer.com/article/10.1186/s13059-020-02026-y)
+3. [Ryan, K. A., Han, P., **Zhang, Y.**, Marshall, D. F., Yocum, A. K., McInnis, M. G., & Zöllner, S. (2021). *Stability of personality traits in bipolar disorder: Findings from a longitudinal cohort. Journal of Affective Disorders*, 283, 1-10.](https://www.sciencedirect.com/science/article/pii/S0165032721000434)
 
 **Manuscripts in preparation****
-1. **Orozco-del-Pino P**, Zöllner S, Impact of linkage disequilibrium in the transferability of European most significant variants, 
-2. **Orozco-del-Pino P**, Boonstra P, Comparative analysis of data integration methods.
-3. **Orozco-del-Pino P**, Zöllner S, Leveraging fine mapping and linkage disequilibrium to increase transferability of polygenic risk scores.
+1. **Zhang, Y.**, Zöllner, S., Intergrating gene co-expression network into the estimation of the effect sizes,  
+2. **Zhang, Y.**, Dempsey, W., An edge exchangeable model based community detection method
   
-Talks
+Talks and Posters
 ======
 #1. American Society of Human Genetics Meeting, Houston, Texas, October 2020. “Applying European polygenic risk scores to non-European populations: What is the role of Linkage #Disequilibrium?” (Poster)
 #2. International Laboratory for Human Genome Research, Querétaro, México, February 2020. “Role of Linkage Disequilibrium in the Transferability of European Polygenic Risk #Scores into Other Populations” (Seminar)
@@ -58,21 +55,17 @@ Talks
 Service and leadership
 ======
 * Biostatistics Department University of Michigan, Ann Arbor, MI
-  * Co-founder and member of the Diversity, Equity and Inclusion Student Committee, August 2020- present 
-  * Michigan Public Health Alumni Mentor, September 2019- present
-  * Departamental Diversity, Equity and Inclusion committee member, January 2019-present
-  * Advised first year students during the “Incoming students retreat”, September 2019
-  * Peer mentor for first year PhD students, Fall 2018, 2019, 2020
-  * Co-founder Biostatistics Students Journal Club
-* “Mexicanos en Estadística y Salud” (Mexicans in Statistics and Health), Michigan, Ann Arbor, MI
-  * Founding member, May 2020- present
-    * Group of Mexican graduate and postdoctoral scholars from different fields and universities committed to the dissemination of scientific information to the general population. https://mxciencia.github.io
+  * Departmental Faculty search committee student represent, August 2021 - present 
+  * Co-founder and member of the Conflict of Research Interest Student Committee, August 2020 - August 2021 
+  * Departamental Diversity, Equity and Inclusion committee member, January 2019 - April 2020
+  * Peer mentor for first year graduate students, Fall 2018, 2019, 2020
 
-Awards and Scholarships
-======
-* Fulbright-Garcia Robles Fellow. From August 2017 to August 2020
-* Rackham Conference Travel Grant. Awared on 2019.
-* Outstanding performance Graduate Student Instructor, Department of Biostatistics of University of Michigan. Awarded on
-December 2018
-* PepsiCo’s Global Functions Governance and Compliance Socrates Award for knowledge sharing. Awarded on May 2017
-* CONACYT Scholarship (No 401351 y register No 572797). From January 2015 to May 2016
+
+#Awards and Scholarships
+#======
+#* Fulbright-Garcia Robles Fellow. From August 2017 to August 2020
+#* Rackham Conference Travel Grant. Awared on 2019.
+#* Outstanding performance Graduate Student Instructor, Department of Biostatistics of University of Michigan. Awarded on
+#December 2018
+#* PepsiCo’s Global Functions Governance and Compliance Socrates Award for knowledge sharing. Awarded on May 2017
+#* CONACYT Scholarship (No 401351 y register No 572797). From January 2015 to May 2016
