@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download Resume](https://umich.box.com/s/aya2xf778k8539a9l5dymwj8wstqot5o)
+[Download Resume](https://github.com/YuhuaZhang1995/YuhuaZhang1995.github.io/blob/master/CV__Data_Scientist_Position_.pdf)
 
 Education
 ======
@@ -41,7 +41,7 @@ Publications
 
 **Manuscripts in preparation****
 1. **Zhang, Y.**, Zöllner, S., Intergrating gene co-expression network into the estimation of the effect sizes,  
-2. **Zhang, Y.**, Dempsey, W., An edge exchangeable model based community detection method in network data
+2. **Zhang, Y.**, Dempsey, W., An edge exchangeable model based community detection method in network data ([Download Manuscript](https://github.com/YuhuaZhang1995/YuhuaZhang1995.github.io/blob/master/ENAR_manuscript.pdf)
   
 Talks and Posters
 ======
