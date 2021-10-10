@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download Resume](https://github.com/YuhuaZhang1995/YuhuaZhang1995.github.io/blob/master/CV__Data_Scientist_Position_.pdf)
+[Download Resume](https://github.com/YuhuaZhang1995/YuhuaZhang1995.github.io/blob/master/CV_Data_Scientist.pdf)
 
 Education
 ======
