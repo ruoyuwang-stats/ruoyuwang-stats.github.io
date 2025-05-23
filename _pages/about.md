@@ -40,6 +40,4 @@ Service
 * Reviewer for *Journal of the American Statistical Association: T&M*, *Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*; *Biometrics*; *Journal of Computational and Graphical Statistics*; *Statistics in Medicine*,  *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*.
 * Session Chair for Joint Statistical Meeting, Portland, OR, 2024.
 
-Curriculum Vitae 
-======
-[Download Curriculum Vitae](https://github.com/ruoyuwang-stats/ruoyuwang-stats.github.io/blob/master/CV-Ruoyu.pdf) (Last update: May 22th, 2025)
+
