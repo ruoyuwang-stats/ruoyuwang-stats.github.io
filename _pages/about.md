@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Ruoyu Wang"
+excerpt: "Ruoyu Wang"
 author_profile: true
 redirect_from: 
   - /about/
