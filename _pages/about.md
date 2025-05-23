@@ -8,36 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc at the [Department of Biostatistics at Harvard University]([https://sph.umich.edu/biostat/](https://hsph.harvard.edu/department/biostatistics/)) working with [Prof Xihong Lin]([https://sph.umich.edu/faculty-profiles/dempsey-walter.html] (https://hsph.harvard.edu/profile/xihong-lin/)). My research focuses on methodology development for data integration problems with biased/heterogeneous data sources and causal inference with unmeasured confounders.
+I am Ph.D. candidate at the [Department of Biostatistics at the University of Michigan](https://sph.umich.edu/biostat/). After receiving my M.S. degree in 2017, I decided to continue my research on health-related data science field. I'm currently working with [Dr Dempsey](https://sph.umich.edu/faculty-profiles/dempsey-walter.html) in social network modeling, and with [Dr Zöllner](https://sph.umich.edu/faculty-profiles/zollner-sebastian.html) in statistical genetics. Before, I received a B.Sc. in General Biology from [Shanghai Jiaotong University](https://zhiyuan.sjtu.edu.cn/html/zhiyuan/), where I got the chance to finish my thesis with [Dr. Zhao](https://ysph.yale.edu/profile/hongyu_zhao/) as an exchange student at Yale University.
 
-Currently, I'm on the job market. I am open to beginning my next adventure anywhere in the world. Please don't hesitate to contact me ([email](mailto:ruoyuwang@hsph.harvard.edu)) if you are interested in my research or want to share any comments/ideas! 
-
-Research Interests
-======
-Data Fusion, Causal Inference, Domain Generalization, Missing Data, Sampling Design, Large-scale Data Analysis
-
-Education
-======
-* Ph.D. in Probability and Mathematical Statistics, Academy of Mathematics and Systems Science, 2022
-* B.S. in Statistics, Nankai University, 2017
-
-Work Experience
-========
-* Postdoctoral Fellow in Department of Biostatistics, Harvard University, Sept 2022 ~ present
-
-Visit
-=====
-Department of Statistics, Rutgers University. March 2025.
-
-Skills Summary
-======
-* Software: R, plink.
-* Statistical Knowledge: Semiparametric Theory, High-dimensional Statistics, Causal Inference, Learning Theory, Mixed Effects Models.
-* Language: native Chinese, English.
-  
-Service
-======
-* Reviewer for *Journal of the American Statistical Association: T&M*, *Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*; *Biometrics*; *Journal of Computational and Graphical Statistics*; *Statistics in Medicine*,  *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*.
-* Session Chair for Joint Statistical Meeting, Portland, OR, 2024.
-
-
+I live in Ann Arbor, and is ready for an adventure to any place in the world. I am happy to learn, talk, meet people from all sorts of field! (Perfect if over a cup of coffee :D) Please don't hesitate to contact me ([email](mailto:zyuhua@umich.edu)) anytime! 
