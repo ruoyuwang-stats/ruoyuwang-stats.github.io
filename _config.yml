@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "About me"
 title_separator          : "-"
-name                     : &name "Yuhua Zhang, MS"
-description              : &description "Ph.D. Candidate in Biostatistics, University of Michigan"
-url                      : https://yuhuazhang1995.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Ruoyu Wang"
+description              : &description "Postdoc in Department of Biostatistics, Harvard University"
+url                      : https://ruoyuwang-stats.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "YuhuaZhang1995/YuhuaZhang1995.github.io"
+repository               : "ruoyuwang-stats.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuhua Zhang"
-  avatar           : "IMG_7128.jpg"
-  bio              : "PhD Candidate in Biostatistics"
-  location         : "Ann Arbor, MI"
-  employer         : #"University of Michigan"
+  name             : "Ruoyu Wang"
+  avatar           : "Ruoyu_Portland.jpg"
+  bio              : "Postdoc in Biostatistics"
+  location         : "Boston, MA"
+  employer         : #"Harvard University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=prsuc50AAAAJ&hl=en"
-  email            : "zyuhua@umich.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=1mO8fMgAAAAJ"
+  email            : "ruoyuwang@hsph.harvard.edu"
+  researchgate     :  "https://www.researchgate.net/profile/Ruoyu-Wang-38"# example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
