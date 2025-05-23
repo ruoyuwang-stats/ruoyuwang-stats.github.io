@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me"
+title                    : "Ruoyu Wang"
 title_separator          : "-"
 name                     : &name "Ruoyu Wang"
 description              : &description "Postdoc in Department of Biostatistics, Harvard University"
