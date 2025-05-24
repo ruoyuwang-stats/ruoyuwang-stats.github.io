@@ -16,24 +16,18 @@ Research Interests
 ======
 Data Fusion, Causal Inference, Domain Generalization, Missing Data, Sampling Design, Large-scale Data Analysis
 
+Work Experience
+========
+* Postdoctoral Fellow in Department of Biostatistics, Harvard University, Sept 2022 ~ present
+
 Education
 ======
 * Ph.D. in Probability and Mathematical Statistics, Academy of Mathematics and Systems Science, 2022
 * B.S. in Statistics, Nankai University, 2017
 
-Work Experience
-========
-* Postdoctoral Fellow in Department of Biostatistics, Harvard University, Sept 2022 ~ present
-
 Visit
 =====
 Department of Statistics, Rutgers University. March 2025.
-
-Skills Summary
-======
-* Software: R, plink.
-* Statistical Knowledge: Semiparametric Theory, High-dimensional Statistics, Causal Inference, Learning Theory, Mixed Effects Models.
-* Language: native Chinese, English.
   
 Service
 ======
