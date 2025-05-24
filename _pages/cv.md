@@ -25,9 +25,9 @@ Publications
 12. Miao, W.<sup>*</sup>, Li, W., Hu, W., **Wang, R.**, and Geng, Z. (2021), Invited commentary: Estimation and bounds under data fusion. _American Journal of Epidemiology_, 191, 674--678.
 
 **Paper under Invited Revision**
- 1.	**Wang, R.**, Zhang, H., and Lin X.<sup>*</sup> (2025+), Debiased Estimating Equation Method for Versatile and Efficient Mendelian Randomization Using Large Numbers of Correlated Weak and Invalid Instruments. Revision invited by _Journal of the American Statistical Association: T&M_. arXiv:2408.05386.
- 2. Hu, W.<sup>1</sup>, **Wang, R.<sup>1</sup>**, Li, W.<sup>*</sup>, and Miao, W.<sup>*</sup> (2025+), Semiparametric Efficient Fusion of Individual Data and Summary Statistics. Revision invited by _Journal of the American Statistical Association: T&M_. arXiv:2210.00200.
- 3.	Su, M. and **Wang, R.<sup>*</sup>** (2025+), Subsampled One-Step Estimation for Fast Statistical Inference. Revision invited by _Scandinavian Journal of Statistics_. arXiv:2407.13446.  
+ 1.	**Wang, R.**, Zhang, H., and Lin X.<sup>*</sup> (2025+), Debiased estimating equation method for versatile and efficient Mendelian randomization using a large numbers of correlated weak and invalid instruments. Revision invited by _Journal of the American Statistical Association: T&M_. arXiv:2408.05386.
+ 2. Hu, W.<sup>1</sup>, **Wang, R.<sup>1</sup>**, Li, W.<sup>*</sup>, and Miao, W.<sup>*</sup> (2025+), Semiparametric efficient fusion of individual data and summary statistics. Revision invited by _Journal of the American Statistical Association: T&M_. arXiv:2210.00200.
+ 3.	Su, M. and **Wang, R.<sup>*</sup>** (2025+), Subsampled one-step estimation for fast statistical inference. Revision invited by _Scandinavian Journal of Statistics_. arXiv:2407.13446.  
  4.	**Wang, R.**, Wang Q.<sup>*</sup>, and Miao, W. (2025+), A maximin optimal approach for sampling designs in two-phase studies. Revision invited by _Statistica Sinica_. arXiv:2312.10596.   
 
 **Paper under Review**
@@ -46,11 +46,11 @@ Oral Presentation
 1. Characterization of excess risk for locally strongly convex population risk. Chinese Association for Applied Statistics (CAAS), High Dimensional Statistics Symposium, July 2021.
 2. Sharp bounds for variance of the treatment effect estimators in finite population in the presence of covariates. The 2021 International Workshop on	Statistical Theory and Related Fields (STARF 2021), December 2021.
 3. Debiased estimating equation method for summary statistics-based Mendelian randomization. The 1st Joint Conference on Statistics and Data Science in China, July 2023.
-4. DEEM: A Flexible and Efficient Method for Summary Statistics-based Mendelian Randomization. ENAR 2024 Spring Meeting, March 2024.
+4. DEEM: A flexible and efficient Method for summary statistics-based Mendelian randomization. ENAR 2024 Spring Meeting, March 2024.
 5. Divide-and-shrink: a heterogeneity-agnostic approach for safe data integration. **Invited talk**, IMS-China 2024, July 2024.
 6. Extreme-based causal effect learning with endogenous exposures and a light-tailed error. **Invited talk**, 2024 International Conference on Frontiers of Data Science, July 2024.
-7. Debiased Estimating Equation Method for Versatile and Efficient Mendelian Randomization Using Large Numbers of Correlated Weak and Invalid Instruments. The 2nd Joint Conference on Statistics and Data Science in China, July, 2024.
-8. Debiased Estimating Equation Method for Versatile and Efficient Mendelian Randomization. 2024 Joint Statistical Meetings (JSM), August 2024.
+7. Debiased estimating equation method for versatile and efficient Mendelian randomization using large numbers of correlated weak and invalid instruments. The 2nd Joint Conference on Statistics and Data Science in China, July 2024.
+8. Debiased estimating equation method for versatile and efficient Mendelian randomization. 2024 Joint Statistical Meetings (JSM), August 2024.
 9. Extreme-based causal effect learning with endogenous exposures and a light-tailed error. Seminar of the Center for Causal Inference, University of Pennsylvania, March 2025.
 10. Divide-and-shrink: An efficient and heterogeneity-agnostic approach for transfer estimation using summary statistics. **Invited talk**, Diabetes StatClin Meeting, April 2025.
 
