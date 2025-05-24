@@ -25,7 +25,7 @@ Publications
 12. Miao, W.<sup>*</sup>, Li, W., Hu, W., **Wang, R.**, and Geng, Z. (2021), Invited commentary: Estimation and bounds under data fusion. _American Journal of Epidemiology_, 191, 674--678.
 
 **Paper under Invited Revision**
- 1.	**Wang, R.**, Zhang, H., and Lin X.<sup>*</sup> (2025+), Debiased estimating equation method for versatile and efficient Mendelian randomization using a large numbers of correlated weak and invalid instruments. Revision invited by _Journal of the American Statistical Association: T&M_. arXiv:2408.05386.
+ 1.	**Wang, R.**, Zhang, H., and Lin X.<sup>*</sup> (2025+), Debiased estimating equation method for versatile and efficient Mendelian randomization using a large number of correlated weak and invalid instruments. Revision invited by _Journal of the American Statistical Association: T&M_. arXiv:2408.05386.
  2. Hu, W.<sup>1</sup>, **Wang, R.<sup>1</sup>**, Li, W.<sup>*</sup>, and Miao, W.<sup>*</sup> (2025+), Semiparametric efficient fusion of individual data and summary statistics. Revision invited by _Journal of the American Statistical Association: T&M_. arXiv:2210.00200.
  3.	Su, M. and **Wang, R.<sup>*</sup>** (2025+), Subsampled one-step estimation for fast statistical inference. Revision invited by _Scandinavian Journal of Statistics_. arXiv:2407.13446.  
  4.	**Wang, R.**, Wang Q.<sup>*</sup>, and Miao, W. (2025+), A maximin optimal approach for sampling designs in two-phase studies. Revision invited by _Statistica Sinica_. arXiv:2312.10596.   
