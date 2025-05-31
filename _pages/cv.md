@@ -33,12 +33,11 @@ Publications
 
 **Paper under Review**
 1. **Wang, R.** and Miao, W.<sup>*</sup> (2025+), Extreme-based causal effect learning with endogenous exposures and a light-tailed error. Under review. arXiv:2408.06211.
-2. Su, M. and **Wang, R.<sup>*</sup>** (2025+), Moment-assisted Subsampling based Maximum Likelihood Estimator. Under review. arXiv:2309.09872.  
-3. Yi, M., Matabuena, M., **Wang, R.<sup>*</sup>** (2025+), Denoising data with measurement error using a reproducing kernel-based diffusion model. Under review. arXiv:2501.00212.
-4. Su, M. and **Wang, R.<sup>*</sup>** (2025+), Moment-assisted subsampling method for Cox proportional hazards model with large-scale data. Under review. arXiv:2501.06924.  
-5. **Wang, R.** and Lin X.<sup>*</sup> (2025+), Divide-and-shrink: An efficient and heterogeneity-agnostic approach for transfer estimation using summary statistics. Under review.
-6. Yang, H.<sup>1</sup>, **Wang, R.<sup>1</sup>**, Lin, Y., and Lin, X.<sup>*</sup> (2025), Tail likelihood ratio method for large-scale causal mediation testing in epigenome-wide studies. Under review.
-7. Zhang, P., **Wang, R.**, and Miao, W.<sup>*</sup> (2025+), Causal attribution with confidence. Under review. arXiv:2504.08294.
+2. Yi, M., Matabuena, M., **Wang, R.<sup>*</sup>** (2025+), Denoising data with measurement error using a reproducing kernel-based diffusion model. Under review. arXiv:2501.00212.
+3. Su, M. and **Wang, R.<sup>*</sup>** (2025+), Moment-assisted subsampling method for Cox proportional hazards model with large-scale data. Under review. arXiv:2501.06924.  
+4. **Wang, R.** and Lin X.<sup>*</sup> (2025+), Divide-and-shrink: An efficient and heterogeneity-agnostic approach for transfer estimation using summary statistics. Under review.
+5. Yang, H.<sup>1</sup>, **Wang, R.<sup>1</sup>**, Lin, Y., and Lin, X.<sup>*</sup> (2025), Tail likelihood ratio method for large-scale causal mediation testing in epigenome-wide studies. Under review.
+6. Zhang, P., **Wang, R.**, and Miao, W.<sup>*</sup> (2025+), Causal attribution with confidence. Under review. arXiv:2504.08294.
 
 <sup>1</sup> : equal contribution; <sup>*</sup> : corresponding author
   
