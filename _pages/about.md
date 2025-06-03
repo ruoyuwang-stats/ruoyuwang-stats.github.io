@@ -49,4 +49,4 @@ Service
 
 Curriculum Vitae 
 ======
-[Download Curriculum Vitae](https://github.com/ruoyuwang-stats/ruoyuwang-stats.github.io/blob/master/CV-Ruoyu.pdf) (Last update: May 22th, 2025)
+[Download Curriculum Vitae](https://github.com/ruoyuwang-stats/ruoyuwang-stats.github.io/blob/master/CV-Ruoyu.pdf) (Last update: June 3th, 2025)
