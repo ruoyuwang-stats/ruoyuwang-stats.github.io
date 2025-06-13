@@ -27,17 +27,17 @@ Publications
 **Paper under Invited Revision**
  1.	**Wang, R.**, Zhang, H., and Lin X.<sup>*</sup> (2025+), Debiased estimating equation method for versatile and efficient Mendelian randomization using a large number of correlated weak and invalid instruments. Revision invited by _Journal of the American Statistical Association: T&M_. arXiv:2408.05386.
  2. Hu, W.<sup>1</sup>, **Wang, R.<sup>1</sup>**, Li, W.<sup>*</sup>, and Miao, W.<sup>*</sup> (2025+), Semiparametric efficient fusion of individual data and summary statistics. Revision invited by _Journal of the American Statistical Association: T&M_. arXiv:2210.00200.
- 3. Su, M. and **Wang, R.<sup>*</sup>** (2025+), A moment-assisted approach for improving subsampling-based MLE with large-scale data. Revision invited by _Journal of Machine Learning Research_. arXiv:2309.09872.
- 4.	Su, M. and **Wang, R.<sup>*</sup>** (2025+), Subsampled one-step estimation for fast statistical inference. Revision invited by _Scandinavian Journal of Statistics_. arXiv:2407.13446.  
- 5.	**Wang, R.**, Wang Q.<sup>*</sup>, and Miao, W. (2025+), A maximin optimal approach for sampling designs in two-phase studies. Revision invited by _Statistica Sinica_. arXiv:2312.10596.   
+ 3. **Wang, R.** and Lin X.<sup>*</sup> (2025+), Divide-and-shrink: An efficient and heterogeneity-agnostic approach for transfer estimation using summary statistics. Revision invited by Journal of the Royal Statistical Society: Series B.
+ 4. Su, M. and **Wang, R.<sup>*</sup>** (2025+), A moment-assisted approach for improving subsampling-based MLE with large-scale data. Revision invited by _Journal of Machine Learning Research_. arXiv:2309.09872.
+ 5.	Su, M. and **Wang, R.<sup>*</sup>** (2025+), Subsampled one-step estimation for fast statistical inference. Revision invited by _Scandinavian Journal of Statistics_. arXiv:2407.13446.  
+ 6.	**Wang, R.**, Wang Q.<sup>*</sup>, and Miao, W. (2025+), A maximin optimal approach for sampling designs in two-phase studies. Revision invited by _Statistica Sinica_. arXiv:2312.10596.   
 
 **Paper under Review**
 1. **Wang, R.** and Miao, W.<sup>*</sup> (2025+), Extreme-based causal effect learning with endogenous exposures and a light-tailed error. Under review. arXiv:2408.06211.
 2. Yi, M., Matabuena, M., **Wang, R.<sup>*</sup>** (2025+), Denoising data with measurement error using a reproducing kernel-based diffusion model. Under review. arXiv:2501.00212.
-3. Su, M. and **Wang, R.<sup>*</sup>** (2025+), Moment-assisted subsampling method for Cox proportional hazards model with large-scale data. Under review. arXiv:2501.06924.  
-4. **Wang, R.** and Lin X.<sup>*</sup> (2025+), Divide-and-shrink: An efficient and heterogeneity-agnostic approach for transfer estimation using summary statistics. Under review.
-5. Yang, H.<sup>1</sup>, **Wang, R.<sup>1</sup>**, Lin, Y., and Lin, X.<sup>*</sup> (2025), Tail likelihood ratio method for large-scale causal mediation testing in epigenome-wide studies. Under review.
-6. Zhang, P., **Wang, R.**, and Miao, W.<sup>*</sup> (2025+), Causal attribution with confidence. Under review. arXiv:2504.08294.
+3. Su, M. and **Wang, R.<sup>*</sup>** (2025+), Moment-assisted subsampling method for Cox proportional hazards model with large-scale data. Under review. arXiv:2501.06924. 
+4. Yang, H.<sup>1</sup>, **Wang, R.<sup>1</sup>**, Lin, Y., and Lin, X.<sup>*</sup> (2025), Tail likelihood ratio method for large-scale causal mediation testing in epigenome-wide studies. Under review.
+5. Zhang, P., **Wang, R.**, and Miao, W.<sup>*</sup> (2025+), Causal attribution with confidence. Under review. arXiv:2504.08294.
 
 <sup>1</sup> : equal contribution; <sup>*</sup> : corresponding author
   
