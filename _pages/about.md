@@ -33,8 +33,9 @@ Representative Papers
 4. **Wang, R.**, Zhang, H., and Lin X.<sup>*</sup> (2025+), Debiased estimating equation method for versatile and efficient Mendelian randomization using a large number of correlated weak and invalid instruments. Revision invited by _Journal of the American Statistical Association: T&M (JASA T&M)_. arXiv:2408.05386.
 5. Hu, W.<sup>1</sup>, **Wang, R.<sup>1</sup>**, Li, W.<sup>*</sup>, and Miao, W.<sup>*</sup> (2025+), Semiparametric efficient fusion of individual data and summary statistics. Revision invited by _Journal of the American Statistical Association: T&M (JASA T&M)_. arXiv:2210.00200.
 6. Su, M. and **Wang, R.<sup>*</sup>** (2025+), A moment-assisted approach for improving subsampling-based MLE with large-scale data. Revision invited by _Journal of Machine Learning Research_. arXiv:2309.09872.
-7. **Wang, R.** and Miao, W.<sup>*</sup> (2025+), Extreme-based causal effect learning with endogenous exposures and a light-tailed error. Under review. arXiv:2408.06211.
-8. **Wang, R.** and Lin X.<sup>*</sup> (2025+), Divide-and-shrink: An efficient and heterogeneity-agnostic approach for transfer estimation using summary statistics. Revision invited by Journal of the Royal Statistical Society: Series B.
+7. **Wang, R.** and Lin X.<sup>*</sup> (2025+), Divide-and-shrink: An efficient and heterogeneity-agnostic approach for transfer estimation using summary statistics. Revision invited by Journal of the Royal Statistical Society: Series B.
+8. **Wang, R.** and Miao, W.<sup>*</sup> (2025+), Extreme-based causal effect learning with endogenous exposures and a light-tailed error. Under review. arXiv:2408.06211.
+
 
 <sup>1</sup> : equal contribution; <sup>*</sup> : corresponding author. A full list of publications can be found in the "Research" section in the upper-left corner of this website.
 
