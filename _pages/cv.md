@@ -33,7 +33,7 @@ Publications
  6.	**Wang, R.**, Wang Q.<sup>*</sup>, and Miao, W. (2025+), A maximin optimal approach for sampling designs in two-phase studies. Revision invited by _Statistica Sinica_. arXiv:2312.10596.   
 
 **Paper under Review**
-1. **Wang, R.** and Miao, W.<sup>*</sup> (2025+), Extreme-based causal effect learning with endogenous exposures and a light-tailed error. Under review. arXiv:2408.06211.
+1. **Wang, R.** and Miao, W.<sup>*</sup> (2025+), Causal Effect Identification and Inference with Endogenous Exposures and a Light-tailed Error. Under review. arXiv:2408.06211.
 2. Yi, M., Matabuena, M., **Wang, R.<sup>*</sup>** (2025+), Denoising data with measurement error using a reproducing kernel-based diffusion model. Under review. arXiv:2501.00212.
 3. Su, M. and **Wang, R.<sup>*</sup>** (2025+), Moment-assisted subsampling method for Cox proportional hazards model with large-scale data. Under review. arXiv:2501.06924. 
 4. Yang, H.<sup>1</sup>, **Wang, R.<sup>1</sup>**, Lin, Y., and Lin, X.<sup>*</sup> (2025+), Tail likelihood ratio method for large-scale causal mediation testing in epigenome-wide studies. Under review.
