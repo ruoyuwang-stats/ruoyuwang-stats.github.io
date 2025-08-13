@@ -47,13 +47,15 @@ Oral Presentation
 ======
 1. Characterization of excess risk for locally strongly convex population risk. Chinese Association for Applied Statistics (CAAS), High Dimensional Statistics Symposium, July 2021.
 2. Sharp bounds for variance of the treatment effect estimators in finite population in the presence of covariates. The 2021 International Workshop on	Statistical Theory and Related Fields (STARF 2021), December 2021.
-3. Debiased estimating equation method for summary statistics-based Mendelian randomization. The 1st Joint Conference on Statistics and Data Science in China, July 2023.
+3. Debiased estimating equation method for summary statistics-based Mendelian randomization. **Invited talk**, The 1st Joint Conference on Statistics and Data Science in China, July 2023.
 4. DEEM: A flexible and efficient method for summary statistics-based Mendelian randomization. ENAR 2024 Spring Meeting, March 2024.
 5. Divide-and-shrink: a heterogeneity-agnostic approach for safe data integration. **Invited talk**, IMS-China 2024, July 2024.
 6. Extreme-based causal effect learning with endogenous exposures and a light-tailed error. **Invited talk**, 2024 International Conference on Frontiers of Data Science, July 2024.
-7. Debiased estimating equation method for versatile and efficient Mendelian randomization using large numbers of correlated weak and invalid instruments. The 2nd Joint Conference on Statistics and Data Science in China, July 2024.
+7. Debiased estimating equation method for versatile and efficient Mendelian randomization using large numbers of correlated weak and invalid instruments. **Invited talk**, The 2nd Joint Conference on Statistics and Data Science in China, July 2024.
 8. Debiased estimating equation method for versatile and efficient Mendelian randomization. 2024 Joint Statistical Meetings (JSM), August 2024.
 9. Extreme-based causal effect learning with endogenous exposures and a light-tailed error. Seminar of the Center for Causal Inference, University of Pennsylvania, March 2025.
-10. Divide-and-shrink: An efficient and heterogeneity-agnostic approach for transfer estimation using summary statistics. **Invited talk**, Diabetes StatClin Meeting, April 2025.
+10. Divide-and-shrink: An efficient and heterogeneity-agnostic approach for transfer estimation using summary statistics. **Invited talk**, 1st Diabetes StatClin Meeting, April 2025.
+11. A maximin optimal approach for sampling designs in two-phase studies. **Topic-contributed paper session**, 2025 Joint Statistical Meetings (JSM), August 2025.. 
+12. Causal effect identification and inference with endogenous exposures and a light-tailed error. **Invited talk**, 8th International Conference on Econometrics and Statistics, August 2025.
 
 
