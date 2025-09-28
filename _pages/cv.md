@@ -25,7 +25,7 @@ Publications
 11. Wang, Q., Su, M.<sup>*</sup>, and **Wang, R.** (2021), A beyond multiple robust approach for missing response problem. _Computational Statistics and Data Analysis_, 155.
 12. Miao, W.<sup>*</sup>, Li, W., Hu, W., **Wang, R.**, and Geng, Z. (2021), Invited commentary: Estimation and bounds under data fusion. _American Journal of Epidemiology_, 191, 674--678.
 
-**Paper under Invited Revision**
+**Papers under Invited Revision**
  1.	**Wang, R.**, Zhang, H., and Lin X.<sup>*</sup> (2025+), Debiased estimating equation method for versatile and efficient Mendelian randomization using a large number of correlated weak and invalid instruments. Revision invited by _Journal of the American Statistical Association: T&M_. arXiv:2408.05386.
  2. Hu, W.<sup>1</sup>, **Wang, R.<sup>1</sup>**, Li, W.<sup>*</sup>, and Miao, W.<sup>*</sup> (2025+), Semiparametric efficient fusion of individual data and summary statistics. Revision invited by _Journal of the American Statistical Association: T&M_. arXiv:2210.00200.
  3. **Wang, R.** and Lin X.<sup>*</sup> (2025+), Divide-and-shrink: An efficient and heterogeneity-agnostic approach for transfer estimation using summary statistics. Revision invited by _Journal of the Royal Statistical Society: Series B_.
@@ -33,14 +33,12 @@ Publications
  5. Yang, H.<sup>1</sup>, **Wang, R.<sup>1</sup>**, Lin, Y., and Lin, X.<sup>*</sup> (2025+), Tail likelihood ratio method for large-scale causal mediation testing in epigenome-wide studies. Revision invited by _Journal of the American Statistical Association: ACS_.
  6.	**Wang, R.**, Wang Q.<sup>*</sup>, and Miao, W. (2025+), A maximin optimal approach for sampling designs in two-phase studies. Revision invited by _Statistica Sinica_. arXiv:2312.10596.   
 
-**Paper under Review**
+**Preprints and Papers under Review**
 1. **Wang, R.** and Miao, W.<sup>*</sup> (2025+), Causal Effect Identification and Inference with Endogenous Exposures and a Light-tailed Error. Under review. arXiv:2408.06211.
-2. Su, M. and **Wang, R.<sup>*</sup>** (2025+), Moment-assisted subsampling method for Cox proportional hazards model with large-scale data. Under review. arXiv:2501.06924. 
+2. Yi, M., Matabuena, M., **Wang, R.<sup>*</sup>** (2025+), Denoising data with measurement error using a reproducing kernel-based diffusion model. arXiv:2501.00212.
+3. Su, M. and **Wang, R.<sup>*</sup>** (2025+), Moment-assisted subsampling method for Cox proportional hazards model with large-scale data. Under review. arXiv:2501.06924.
+4. Zhang, P., **Wang, R.**, and Miao, W.<sup>*</sup> (2025+), Causal attribution with confidence. Under review. arXiv:2504.08294. 
 
-**Preprint**
-1. Yi, M., Matabuena, M., **Wang, R.<sup>*</sup>** (2025+), Denoising data with measurement error using a reproducing kernel-based diffusion model. arXiv:2501.00212.
-2. Zhang, P., **Wang, R.**, and Miao, W.<sup>*</sup> (2025+), Causal attribution with confidence. Under review. arXiv:2504.08294.
-   
 <sup>1</sup> : equal contribution; <sup>*</sup> : corresponding author
   
 Oral Presentation
