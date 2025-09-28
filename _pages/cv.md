@@ -36,11 +36,11 @@ Publications
 **Paper under Review**
 1. **Wang, R.** and Miao, W.<sup>*</sup> (2025+), Causal Effect Identification and Inference with Endogenous Exposures and a Light-tailed Error. Under review. arXiv:2408.06211.
 2. Su, M. and **Wang, R.<sup>*</sup>** (2025+), Moment-assisted subsampling method for Cox proportional hazards model with large-scale data. Under review. arXiv:2501.06924. 
-3. Zhang, P., **Wang, R.**, and Miao, W.<sup>*</sup> (2025+), Causal attribution with confidence. Under review. arXiv:2504.08294.
 
 **Preprint**
 1. Yi, M., Matabuena, M., **Wang, R.<sup>*</sup>** (2025+), Denoising data with measurement error using a reproducing kernel-based diffusion model. arXiv:2501.00212.
-
+2. Zhang, P., **Wang, R.**, and Miao, W.<sup>*</sup> (2025+), Causal attribution with confidence. Under review. arXiv:2504.08294.
+   
 <sup>1</sup> : equal contribution; <sup>*</sup> : corresponding author
   
 Oral Presentation
