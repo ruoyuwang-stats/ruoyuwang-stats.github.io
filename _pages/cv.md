@@ -32,12 +32,12 @@ Publications
  4. Su, M. and **Wang, R.<sup>*</sup>** (2025+), A moment-assisted approach for improving subsampling-based MLE with large-scale data. Revision invited by _Journal of Machine Learning Research_. arXiv:2309.09872.
  5. Yang, H.<sup>1</sup>, **Wang, R.<sup>1</sup>**, Lin, Y., and Lin, X.<sup>*</sup> (2025+), Tail likelihood ratio method for large-scale causal mediation testing in epigenome-wide studies. Revision invited by _Journal of the American Statistical Association: ACS_.
  6.	**Wang, R.**, Wang Q.<sup>*</sup>, and Miao, W. (2025+), A maximin optimal approach for sampling designs in two-phase studies. Revision invited by _Statistica Sinica_. arXiv:2312.10596.   
+ 7. Su, M. and **Wang, R.<sup>*</sup>** (2025+), Moment-assisted subsampling method for Cox proportional hazards model with large-scale data. Revision invited by _Journal of Computational and Graphical Statistics_. arXiv:2501.06924.
 
 **Preprints and Papers under Review**
 1. **Wang, R.** and Miao, W.<sup>*</sup> (2025+), Causal Effect Identification and Inference with Endogenous Exposures and a Light-tailed Error. Under review. arXiv:2408.06211.
 2. Yi, M., Matabuena, M., **Wang, R.<sup>*</sup>** (2025+), Denoising data with measurement error using a reproducing kernel-based diffusion model. arXiv:2501.00212.
-3. Su, M. and **Wang, R.<sup>*</sup>** (2025+), Moment-assisted subsampling method for Cox proportional hazards model with large-scale data. Under review. arXiv:2501.06924.
-4. Zhang, P., **Wang, R.**, and Miao, W.<sup>*</sup> (2025+), Causal attribution with confidence. Under review. arXiv:2504.08294. 
+3. Zhang, P., **Wang, R.**, and Miao, W.<sup>*</sup> (2025+), Causal attribution with confidence. Under review. arXiv:2504.08294. 
 
 <sup>1</sup> : equal contribution; <sup>*</sup> : corresponding author
   
